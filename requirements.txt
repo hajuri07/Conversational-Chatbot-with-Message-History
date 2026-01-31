@@ -1,0 +1,12 @@
+streamlit
+pypdf
+chromadb
+langchain
+langchain-classic
+langchain-core
+langchain-community
+langchain-chroma
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+cloudflared
